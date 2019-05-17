@@ -1,2 +1,3 @@
 config1
 first modification
+config2
